@@ -5,7 +5,7 @@ This repository contains a **10-week, hands-on study plan** designed to build yo
 ## Repository Structure
 
 ```
-data-learning-starter/
+data-learning/
 │
 ├── README.md               <- This file: overview & roadmap
 ├── requirements.txt        <- Python libraries used across notebooks
